@@ -11,7 +11,7 @@ Note: If you are encountering issues with Claude connecting to the server, use t
   "mcpServers": {
     "weather": {
       "command": "/Users/<USER>/.local/bin/uv",
-      "args": ["--directory", "/Users/<USER>/weather", "run", "weather.py"]
+      "args": ["--directory", "/Users/<USER>/weather-mcp", "run", "weather.py"]
     }
   }
 }
